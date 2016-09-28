@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .gallery-thumbnail{
+ 	width:200px;
+ 	height:200px;
+ }
+ .ddata-update-button{
+ 	margin-left:10px !important;
+ }
+ .ddata-style-update-button{
+ 	margin-top:20px !important;
+ }
